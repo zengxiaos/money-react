@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/money-react/static/css/main.ef6547ce.css",
+    "main.js": "/money-react/static/js/main.b020871b.js",
+    "static/js/529.61ab0e44.chunk.js": "/money-react/static/js/529.61ab0e44.chunk.js",
+    "index.html": "/money-react/index.html",
+    "main.ef6547ce.css.map": "/money-react/static/css/main.ef6547ce.css.map",
+    "main.b020871b.js.map": "/money-react/static/js/main.b020871b.js.map",
+    "529.61ab0e44.chunk.js.map": "/money-react/static/js/529.61ab0e44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef6547ce.css",
+    "static/js/main.b020871b.js"
+  ]
+}
